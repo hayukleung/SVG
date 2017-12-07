@@ -1,1 +1,1 @@
-include ':app-learning-svg'
+include ':app-learning-svg', ':app-learning-svg-android'
